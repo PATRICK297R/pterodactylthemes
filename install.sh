@@ -39,7 +39,7 @@ instalartema(){
 }
 
 voltar(){
-bash <(curl https://raw.githubusercontent.com/BOTCAHX/pterodactylthemes/main/menu.sh)
+bash <(curl https://raw.githubusercontent.com/PATRICK297R/pterodactylthemes/main/install.sh)
 }
 
 instaladordetemas(){
