@@ -13,7 +13,7 @@ instalartema(){
     echo -e "${CYAN}Installing themes..."
     cd /var/www/pterodactyl
     rm -r pterodactylthemes
-    git clone https://github.com/BOTCAHX/pterodactylthemes.git
+    git clone https://github.com/PATRICK297R/pterodactylthemes.git
     cd pterodactylthemes
     rm /var/www/pterodactyl/resources/scripts/pterodactylthemes.css
     rm /var/www/pterodactyl/resources/scripts/index.tsx
