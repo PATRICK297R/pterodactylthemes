@@ -63,7 +63,7 @@ restaurarbackup(){
 
     CYAN='\033[0;36m'
     echo -e "${CYAN}Copyright 2023 Patrick Theme"
-    echo -e "${CYAN}This program is free software, you can modify and distribute it without any problems."
+    echo -e "${CYAN}This program is free software."
     echo -e ""
     echo -e "${CYAN}Website : https://nextsekai.in/"
     echo -e ""
