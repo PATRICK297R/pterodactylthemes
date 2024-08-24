@@ -17,9 +17,6 @@ instalartema(){
     cd pterodactylthemes
     rm /var/www/pterodactyl/resources/scripts/pterodactylthemes.css
     rm /var/www/pterodactyl/resources/scripts/index.tsx
-    rm /var/www/pterodactyl/resources/scripts/components/server/files/FileManagerContainer.tsx
-    mv FileManagerContainer.tsx /var/www/pterodactyl/resources/scripts/components/server/files/FileManagerContainer.tsx
-    mv FetchButton.tsx /var/www/pterodactyl/resources/scripts/components/server/files/FetchButton.tsx
     mv index.tsx /var/www/pterodactyl/resources/scripts/index.tsx
     mv pterodactylthemes.css /var/www/pterodactyl/resources/scripts/pterodactylthemes.css
     cd /var/www/pterodactyl
